@@ -1,0 +1,20 @@
+{
+  "translations": {
+    "de": {
+      "Client IP adress": "Client IP Adresse",
+      "Client Port": "Client Port",
+      "Client MAC adress": "Client MAC Adresse",
+      "Client Socket": "Client Socket",
+      "Server IP adress": "Server IP Adresse",
+      "Server Port": "Server Port",
+      "X-Plex Token": "X-Plex Token",
+      "IP address": "IP Adresse",
+      "Creating instance.": "Die Instanz wird erstellt.",
+      "No valid IP address.": "Keine gültige IP Adresse.",
+      "Plex Client active.": "Plex Client aktiv.",
+      "Interface closed.": "Interface geschlossen.",
+      "IP address must not be empty.": "IP Adresse darf nicht leer sein.",
+      "field must not be empty.": "Feld darf nicht leer sein."
+    }
+  }
+}

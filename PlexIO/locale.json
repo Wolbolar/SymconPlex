@@ -1,0 +1,13 @@
+{
+  "translations": {
+    "de": {
+      "username and password for Plex webhook": "Benutzername und Passwort für den Plex Webhook",
+      "Username": "Benutzername",
+      "Password": "Passwort",
+      "Creating instance.": "Die Instanz wird erstellt.",
+      "Plex IO active.": "Plex IO aktiv.",
+      "Interface closed.": "Interface geschlossen.",
+      "field must not be empty.": "Das Feld darf nicht leer sein."
+    }
+  }
+}

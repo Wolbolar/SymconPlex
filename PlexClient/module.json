@@ -1,0 +1,14 @@
+{
+	"id": "{010E8E6B-3756-C513-331A-6F214B1A95F2}",
+	"name": "PlexClient",
+	"type": 3,
+	"vendor": "Plex",
+	"aliases": 
+	[
+		"Plex Client"
+	],
+	"parentRequirements": ["{0A4192DF-57B7-DBED-87AC-D8568BF6CC6D}"],
+	"childRequirements": [],
+	"implemented": ["{AD417AC1-7853-A43C-7011-CD5D60984FB8}"],
+	"prefix": "Plex"
+}

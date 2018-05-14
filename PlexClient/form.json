@@ -1,0 +1,76 @@
+{
+  "elements": [
+    {
+      "name": "client_uuid",
+      "type": "ValidationTextBox",
+      "caption": "Client UUID"
+    },
+    {
+      "name": "ClientIP",
+      "type": "ValidationTextBox",
+      "caption": "Client IP adress"
+    },
+    {
+      "name": "ClientPort",
+      "type": "NumberSpinner",
+      "caption": "Client Port"
+    },
+    {
+      "name": "ClientMAC",
+      "type": "ValidationTextBox",
+      "caption": "Client MAC adress"
+    },
+    {
+      "name": "ClientSocket",
+      "type": "SelectObject",
+      "caption": "Client Socket"
+    },
+    {
+      "name": "ServerIP",
+      "type": "ValidationTextBox",
+      "caption": "Server IP adress"
+    },
+    {
+      "name": "ServerPort",
+      "type": "NumberSpinner",
+      "caption": "Server Port"
+    },
+    {
+      "name": "XPlexToken",
+      "type": "ValidationTextBox",
+      "caption": "X-Plex Token"
+    }
+  ],
+  "status": [
+    {
+      "code": 101,
+      "icon": "inactive",
+      "caption": "Creating instance."
+    },
+    {
+      "code": 102,
+      "icon": "active",
+      "caption": "Plex Client active."
+    },
+    {
+      "code": 104,
+      "icon": "inactive",
+      "caption": "Interface closed."
+    },
+    {
+      "code": 202,
+      "icon": "error",
+      "caption": "IP address must not be empty."
+    },
+    {
+      "code": 203,
+      "icon": "error",
+      "caption": "No valid IP address."
+    },
+    {
+      "code": 204,
+      "icon": "error",
+      "caption": "field must not be empty."
+    }
+  ]
+}

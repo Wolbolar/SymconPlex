@@ -1,0 +1,40 @@
+{
+  "elements": [
+    {
+      "type": "Label",
+      "label": "username and password for Plex webhook"
+    },
+    {
+      "name": "username",
+      "type": "ValidationTextBox",
+      "caption": "Username"
+    },
+    {
+      "name": "password",
+      "type": "PasswordTextBox",
+      "caption": "Password"
+    }
+  ],
+  "status": [
+    {
+      "code": 101,
+      "icon": "inactive",
+      "caption": "Creating instance."
+    },
+    {
+      "code": 102,
+      "icon": "active",
+      "caption": "Plex IO active."
+    },
+    {
+      "code": 104,
+      "icon": "inactive",
+      "caption": "Interface closed."
+    },
+    {
+      "code": 202,
+      "icon": "error",
+      "caption": "field must not be empty."
+    }
+  ]
+}

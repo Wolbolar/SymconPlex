@@ -1,0 +1,14 @@
+{
+	"id": "{87DF895A-35D7-2801-43E8-1533E057F38A}",
+	"name": "PlexIO",
+	"type": 1,
+	"vendor": "Plex",
+	"aliases": 
+	[
+		"Plex IO"
+	],
+	"parentRequirements": [],
+	"childRequirements": ["{AD417AC1-7853-A43C-7011-CD5D60984FB8}"],
+	"implemented": ["{0A4192DF-57B7-DBED-87AC-D8568BF6CC6D}"],
+	"prefix": "PlexIO"
+}
